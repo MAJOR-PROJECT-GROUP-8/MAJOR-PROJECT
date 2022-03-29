@@ -13,13 +13,13 @@ Assistant Professor
 (Sikkim Manipal Institute of Technology, Majitar, East Sikkim)
 
         WORK UPDATE
-We defined the architecture of the model.
+1) We defined the architecture of the model.
 
-We trained our model on the training set.
+2) We trained our model on the training set.
 
-We used CNN models which can do image classification better than humans.
+3) We used CNN models which can do image classification.
 
-We created our survey paper
+4) We created our survey paper
 
 
 NOTE: 
